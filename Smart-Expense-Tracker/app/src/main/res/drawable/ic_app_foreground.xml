@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple rupee symbol in a circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,12a42,42 0,1 1,0 84a42,42 0,1 1,0 -84z"/>
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M66,42h-26a2,2 0,0 1,0 -4h26a2,2 0,0 1,0 4zM66,50h-26a2,2 0,0 1,0 -4h26a2,2 0,0 1,0 4zM40,54h13c5,0 9,4 9,9s-4,9 -9,9h-5l8,8h-8l-10,-10v-4h15c3,0 5,-2 5,-5s-2,-5 -5,-5h-13z"/>
+</vector>
+
